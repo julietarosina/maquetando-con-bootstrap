@@ -15,3 +15,18 @@
     background-color: rgb(175, 175, 175);
     
 }
+.sucursales{
+    padding: 10px;
+}
+
+.servicios{
+    padding: 10px;
+    padding-left: 300px;
+}
+.contacto{
+    padding: 10px;
+}
+
+.promImagen {width: 300px;
+    height: 300px;
+    margin:40px;}  
